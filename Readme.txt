@@ -1,10 +1,9 @@
-Readme
-
-Here we provide 10\% of the data from the constructed datasets for review.
+自述文件
 
 
 
-There are three datasets: EDS, ESM and EPM. These datasets are collected from education field. Each dataset contains concept.txt and pair.xlsx. In pair.xlsx, each line represents a concept pair composed of concept A and conceptB. Concept A is prerequisite concept and concept B is post-requisite concept.
+
+There are three datasets: EDS, ESM and EPM. These datasets are collected from education field. Each dataset contains concept.txt and pair.xlsx. In pair.xlsx, each line represents a concept pair composed of concept A and concept B. Concept A is prerequisite concept and concept B is post-requisite concept.
 
 
 
